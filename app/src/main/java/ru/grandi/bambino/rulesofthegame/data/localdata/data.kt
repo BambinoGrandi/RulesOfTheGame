@@ -146,7 +146,7 @@ fun getPlayersData(typeSport: String): List<Player> {
         VOLLEYBALL -> {
             listOf(
                 Player(
-                    "Шашкова Любовь Владимировна",
+                    "Шашкова Любовь",
                     "Волейболист",
                     R.drawable.shashkova
                 ),
