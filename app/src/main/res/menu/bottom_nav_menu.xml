@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_rules"
+        android:icon="@drawable/rules_24"
+        android:title="@string/navigation_rules_title" />
+
+    <item
+        android:id="@+id/navigation_players"
+        android:icon="@drawable/players_24"
+        android:title="@string/navigation_players_title" />
+
+    <item
+        android:id="@+id/navigation_gallery"
+        android:icon="@drawable/gallery_24"
+        android:title="@string/navigation_gallery_title" />
+
+</menu>
